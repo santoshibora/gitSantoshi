@@ -2,6 +2,8 @@ Git Demo
 Git Bash
 Git GUI
 
-Change after commit
+Change 3 after commit
 
 Neha khanna commit
+
+Change 3
